@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SonyMag
+- 👋 Hi, I’m @Sony
 - 👀 I’m interested in web-development, coding, photo,comics.
 - 🌱 I’m currently learning python and web-development
 - 💞️ I’m looking to collaborate on with other programmers
