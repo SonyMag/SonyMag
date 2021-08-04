@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Sony
+- 👋 Hi, I’m @dunaevv
 - 👀 I’m interested in web-development, coding, photo,comics.
 - 🌱 I’m currently learning python and web-development
 - 💞️ I’m looking to collaborate on with other programmers
-- 📫 How to reach me ...@merlincode
+- 📫 How to reach me ...@vveaund
 
 <!---
 SonyMag/SonyMag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
